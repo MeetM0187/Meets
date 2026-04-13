@@ -12,6 +12,24 @@ const Experience = () => {
           <div className="timeline-item">
             <div className="timeline-dot"></div>
             <div className="timeline-content">
+              <span className="timeline-date">Current Role</span>
+              <h3>
+                <a href="https://kreativeadvision.com/" target="_blank" rel="noopener noreferrer">
+                  Kreative Ad Vision
+                </a>
+              </h3>
+              <h4>Digital Head</h4>
+              <ul>
+                <li>Providing complete web development, digital services, and targeted marketing campaigns to clients.</li>
+                <li>Leading the design strategy and comprehensive social media management offerings.</li>
+              </ul>
+            </div>
+          </div>
+
+          {/* Experience Item */}
+          <div className="timeline-item">
+            <div className="timeline-dot"></div>
+            <div className="timeline-content">
               <span className="timeline-date">May 2025 - July 2025</span>
               <h3>TCS (Tata Consultancy Services)</h3>
               <h4>Ai and Cloud Engineering Intern</h4>
